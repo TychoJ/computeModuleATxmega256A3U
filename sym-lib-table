@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "computeModuleATxmega256A3U")(type "KiCad")(uri "${KIPRJMOD}/computeModuleATxmega256A3U.kicad_sym")(options "")(descr ""))
+)
